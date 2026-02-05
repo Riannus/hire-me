@@ -1,0 +1,10 @@
+[project]
+name = "hire-me"
+version = "0.1.0"
+description = "Add your description here"
+readme = ""
+requires-python = ">=3.12"
+dependencies = [
+    "openai-agents>=0.7.0",
+    "python-dotenv>=1.2.1",
+]
