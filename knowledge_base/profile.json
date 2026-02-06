@@ -1,0 +1,143 @@
+{
+  "profile": {
+    "name": "Roman Pausch",
+    "location": "České Budějovice, Czechia",
+    "current_title": "QA Team Lead | Junior Python Developer",
+    "summary": {
+      "general": "QA Team Lead with strong hands-on experience in test automation and multi-brand e-commerce platforms. Passionate about Python, backend development, APIs, and data-driven systems. Combines analytical thinking with a creative background.",
+      "python_focus": "Junior Python developer with practical experience in Python, Django, REST APIs, PostgreSQL, and test-driven development. Focused on clean, readable, and well-documented code.",
+      "qa_focus": "QA Team Lead with deep experience in Playwright and Cypress automation, test infrastructure, CI/CD integration, and quality coordination across large e-commerce ecosystems."
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "linkedin": "https://www.linkedin.com/in/romanpausch/",
+      "portfolio": "https://www.behance.net/romanpausch/",
+      "company": "https://www.tvuj-merch.cz/"
+    }
+  },
+
+  "roles": {
+    "python_developer": {
+      "keywords": ["python", "backend", "api", "django", "postgresql", "testing"],
+      "primary_skills": ["Python", "Django", "PostgreSQL", "REST API"],
+      "secondary_skills": ["HTML", "CSS", "MongoDB", "Swagger"],
+      "experience_refs": ["brilo_team_lead", "brilo_tester", "openbean_analyst"],
+      "highlight": "Transitioning QA professional with strong Python foundations and real-world backend experimentation."
+    },
+    "qa_engineer": {
+      "keywords": ["qa", "testing", "automation", "playwright", "cypress"],
+      "primary_skills": ["Playwright", "Cypress", "Test Automation", "API Testing"],
+      "secondary_skills": ["PostgreSQL", "MongoDB", "CI/CD", "Swagger"],
+      "experience_refs": ["brilo_team_lead", "brilo_tester"],
+      "highlight": "Automation-focused QA engineer with leadership experience and large-scale e-commerce responsibility."
+    },
+    "qa_team_lead": {
+      "keywords": ["leadership", "qa", "processes", "automation", "coordination"],
+      "primary_skills": ["Team Leadership", "Playwright", "Test Strategy"],
+      "secondary_skills": ["JIRA", "Asana", "CI/CD"],
+      "experience_refs": ["brilo_team_lead"],
+      "highlight": "QA Team Lead coordinating quality across 30+ localized e-commerce websites."
+    }
+  },
+
+  "skills": {
+    "programming": {
+      "Python": { "level": "junior", "years": 2 },
+      "HTML": { "level": "intermediate", "years": 3 },
+      "CSS": { "level": "intermediate", "years": 3 }
+    },
+    "testing": {
+      "Playwright": { "level": "advanced", "years": 2 },
+      "Cypress": { "level": "advanced", "years": 2 },
+      "API Testing": { "level": "advanced", "years": 3 }
+    },
+    "databases": {
+      "PostgreSQL": { "level": "intermediate", "years": 2 },
+      "MongoDB": { "level": "intermediate", "years": 2 }
+    },
+    "tools": {
+      "JIRA": "advanced",
+      "Asana": "advanced",
+      "Swagger": "advanced",
+      "Git": "intermediate"
+    }
+  },
+
+  "experience": {
+    "brilo_team_lead": {
+      "company": "Brilo Team",
+      "role": "QA Team Lead",
+      "from": "2024-01",
+      "to": "present",
+      "type": "remote",
+      "description": [
+        "Ownership of Playwright automation project including architecture, roadmap, and team coordination.",
+        "Quality coordination across a multi-brand e-commerce ecosystem with 30+ localized websites.",
+        "Test infrastructure setup including secrets management, parallel execution, and CI/CD integration."
+      ]
+    },
+    "brilo_tester": {
+      "company": "Brilo Team",
+      "role": "Software Tester",
+      "from": "2023-04",
+      "to": "2024-01",
+      "type": "remote",
+      "description": [
+        "Design and implementation of Cypress test automation scenarios.",
+        "Manual testing of frontend, backend, APIs, databases, and iOS applications.",
+        "Bug reporting and collaboration with development and product teams."
+      ]
+    },
+    "openbean_analyst": {
+      "company": "OpenBean",
+      "role": "Junior Data Analyst",
+      "from": "2022-06",
+      "to": "2023-02",
+      "type": "remote",
+      "description": [
+        "Preparation of specifications for web scraping.",
+        "Data validation, consistency checks, and preparation for testing.",
+        "Daily communication in English within an international team."
+      ]
+    }
+  },
+
+  "education": [
+    {
+      "institution": "University of Pardubice",
+      "degree": "Bachelor",
+      "field": "English for Business",
+      "from": "2018",
+      "to": "2023"
+    },
+    {
+      "institution": "Secondary School of Arts and Crafts, Bechyně",
+      "degree": "High School Diploma",
+      "field": "Graphic Design – Multimedia",
+      "from": "2012",
+      "to": "2016"
+    }
+  ],
+
+  "certifications": [
+    "CS50’s Introduction to Programming with Python",
+    "Cypress: Web Automation Testing from Zero to Hero",
+    "HTML and CSS for Beginners",
+    "Cambridge First Certificate in English (FCE)"
+  ],
+
+  "languages": {
+    "Czech": "native",
+    "English": "C1",
+    "German": "A1-A2",
+    "Norwegian": "A1"
+  },
+
+  "interests": [
+    "Artificial Intelligence",
+    "Data-driven systems",
+    "System design",
+    "Black metal studies and cultural research"
+  ]
+}
